@@ -5,7 +5,7 @@ Los archivos donde se guarda la información de la cuenta son los siguientes:
 * signupsave.dat
 * friendcodesave.dat
 
-Se encuentran en la carpeta `/data/com.aniplex.fategrandorder.en/files/data/`, a la que no se puede acceder sin root.  
+Se encuentran en la carpeta `/data/data/com.aniplex.fategrandorder.en/files/`, a la que no se puede acceder sin root.  
 **Si tienes acceso root tanto en el dispositivo donde tienes la cuenta como en los demás, simplemente copia los archivos.**
 ##
 En caso de que no, asegúrate de que cumples los siguientes requisitos y contáctame por DM/Discord:
