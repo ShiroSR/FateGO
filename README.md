@@ -1,0 +1,2 @@
+# FateGO
+Guías de mierda
